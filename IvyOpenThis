@@ -1,0 +1,44 @@
+<html>
+
+<head> 
+    <h1 style=text-align:center>
+        <p style=color:green> Ivy is a Cutie  </p>
+    </h1>
+    
+
+<style>
+   img {
+    display: block;
+    margin: auto;
+   }
+</style>
+    
+</head>
+
+<body style="background-color: lightgreen;">
+    <div>
+        <img src="Ivy.jpg" width=200 height=200 class="center">
+        <br/>
+        <img src="No_balls.png" width=200 height=200 class="center">
+    </div>
+
+    <p style=text-align:center>
+        Ivy, you are a cutie. A big, adorable cutie and there is nothing you can do about it
+    </p>
+
+    <p style=text-align:center>
+        There is no point in denying it and throwing it towards someone else 
+    </p>
+    
+    <p style=text-align:center>
+        You are adorable in every way imaginable, there is no escaping your cuteness
+    </p>
+
+    <h1 style="text-align: center;">
+        <p style="color:green">
+            You  Cutie
+        </p>
+    </h1>
+</body>
+
+</html>
